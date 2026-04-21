@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\TECH\\Desktop\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 7\\demo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\TECH\\Desktop\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 7\\demo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/TECH/Desktop/GitHub/Aprendiendo-Java-10-Semanas/Semana 7/demo/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\TECH\\Desktop\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 7\\demo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

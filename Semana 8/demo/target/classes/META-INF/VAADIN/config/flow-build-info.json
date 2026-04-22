@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo",
+  "node.version": "v20.10.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\TECH\\Documents\\GitHub\\Aprendiendo-Java-10-Semanas\\Semana 8\\demo\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
